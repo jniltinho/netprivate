@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/ilijamt/netprivate"
+	"github.com/jniltinho/netprivate"
 	"github.com/spf13/cobra"
 	"net"
 	"os"
