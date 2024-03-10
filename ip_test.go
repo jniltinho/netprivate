@@ -2,7 +2,7 @@ package netprivate_test
 
 import (
 	"fmt"
-	"github.com/ilijamt/netprivate"
+	"github.com/jniltinho/netprivate"
 	"github.com/stretchr/testify/assert"
 	"net"
 	"testing"
