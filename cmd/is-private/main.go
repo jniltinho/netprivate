@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ilijamt/netprivate/cmd/is-private/cmd"
+	"github.com/jniltinho/netprivate/cmd/is-private/cmd"
 	"os"
 )
 
