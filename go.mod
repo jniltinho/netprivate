@@ -1,4 +1,4 @@
-module github.com/ilijamt/netprivate
+module github.com/jniltinho/netprivate
 
 go 1.18
 
